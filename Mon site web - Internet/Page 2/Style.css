@@ -1,0 +1,28 @@
+h1 {
+color : black ;
+font-size : 50px ;
+text-align : center ;
+}
+h2 {
+	color : black ;
+	font-size : 30px ;
+}
+html {
+background-color : rgb(245,255,255) ;
+}
+#texte{
+font-size : 20px ;
+display : inline-block ;
+width : 50% ;
+vertical-align : top ;
+}
+#image{
+display : inline-block ;
+width : 40% ;
+margin-top : 150px ;
+}
+#texte2 {
+	font-size : 28px ;
+text-align : justify ;
+color : rgb(255,128,255)
+}
